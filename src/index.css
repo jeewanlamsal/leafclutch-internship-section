@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --radius: 0.5rem;
+  --color-background: hsl(0 0% 100%);
+  --color-foreground: hsl(210 50% 15%);
+  --color-primary: hsl(195 85% 35%);
+  --color-primary-foreground: hsl(0 0% 100%);
+  --color-secondary: hsl(195 50% 95%);
+  --color-muted: hsl(195 30% 96%);
+  --color-muted-foreground: hsl(210 20% 45%);
+  --color-accent: hsl(52 95% 70%);
+  --color-border: hsl(195 30% 90%);
+  --color-navy: hsl(200 60% 20%);
+  --color-teal: hsl(180 70% 40%);
+  --color-yellow: hsl(52 95% 65%);
+  --color-yellow-hover: hsl(52 95% 58%);
+}
